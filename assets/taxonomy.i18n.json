@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "categories": {
+    "top": { "en": "Top", "ar": "قطعة علوية" },
+    "bottom": { "en": "Bottoms", "ar": "بنطلون / جيبة" },
+    "outerwear": { "en": "Outerwear", "ar": "جاكيت / طبقة خارجية" },
+    "shoes": { "en": "Shoes", "ar": "حذاء" },
+    "dress": { "en": "Dress", "ar": "فستان / قطعة واحدة" },
+    "accessory": { "en": "Accessory", "ar": "إكسسوار" }
+  },
+  "formality": {
+    "formal": { "en": "Formal", "ar": "رسمي" },
+    "smart_casual": { "en": "Smart casual", "ar": "أنيق غير رسمي" },
+    "casual": { "en": "Casual", "ar": "كاجوال" },
+    "sport": { "en": "Sport", "ar": "رياضي" }
+  },
+  "messages": {
+    "ingest.error.blurry": { "en": "The photo is too blurry — try again with steadier hands or more light.", "ar": "الصورة مهزوزة — جرّب مرة أخرى بثبات أكثر أو إضاءة أفضل." },
+    "ingest.error.low_res": { "en": "The photo resolution is too low.", "ar": "دقة الصورة منخفضة جدًا." },
+    "ingest.error.no_person": { "en": "We couldn't find a person in the photo. Use a full-body photo.", "ar": "لم نتمكن من إيجاد شخص في الصورة. استخدم صورة لكامل الجسم." },
+    "ingest.error.stand_closer": { "en": "You look far away — stand closer to the mirror.", "ar": "تبدو بعيدًا — اقترب من المرآة أكثر." },
+    "ingest.warn.partially_hidden": { "en": "Partially hidden — you may want to retake.", "ar": "جزء من القطعة مخفي — قد ترغب في إعادة التصوير." },
+    "ingest.warn.multi_person": { "en": "Detected more than one person — using the centered one.", "ar": "تم اكتشاف أكثر من شخص — سنستخدم الشخص في المنتصف." },
+    "ingest.match.log_wear": { "en": "Already in your closet — log a wear?", "ar": "موجودة بالفعل في خزانتك — تسجيل ارتداء؟" },
+    "ingest.match.different_item": { "en": "No, this is a different item", "ar": "لا، هذه قطعة مختلفة" },
+    "ingest.privacy": { "en": "Photos are analyzed on your device and never uploaded.", "ar": "يتم تحليل الصور على جهازك ولا يتم رفعها أبدًا." },
+    "ingest.cta": { "en": "Add {n} items · Log {m} wears", "ar": "إضافة {n} قطع · تسجيل {m} ارتداء" }
+  }
+}

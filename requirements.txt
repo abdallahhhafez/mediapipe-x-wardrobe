@@ -1,0 +1,10 @@
+# Reference pipeline environment (Python 3.12)
+torch
+torchvision
+transformers
+pillow
+numpy<2           # mediapipe 0.10.x requires numpy 1.x
+opencv-python-headless<4.12
+mediapipe==0.10.21  # 1.0.x crashes in the Metal delegate on macOS
+onnx
+onnxruntime

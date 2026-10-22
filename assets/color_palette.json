@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "colors": [
+    { "key": "black",     "en": "Black",      "ar": "أسود",        "hex": "#1a1a1a", "lab": [10, 0, 0] },
+    { "key": "charcoal",  "en": "Charcoal",   "ar": "فحمي",        "hex": "#3b3b3b", "lab": [25, 0, 0] },
+    { "key": "grey",      "en": "Grey",       "ar": "رمادي",       "hex": "#8a8a8a", "lab": [57, 0, 0] },
+    { "key": "white",     "en": "White",      "ar": "أبيض",        "hex": "#f5f5f5", "lab": [96, 0, 0] },
+    { "key": "cream",     "en": "Cream",      "ar": "كريمي",       "hex": "#f2ead9", "lab": [93, 1, 9] },
+    { "key": "beige",     "en": "Beige",      "ar": "بيج",         "hex": "#d6c6a8", "lab": [80, 2, 17] },
+    { "key": "tan",       "en": "Tan",        "ar": "بني فاتح",    "hex": "#c8a06c", "lab": [69, 8, 33] },
+    { "key": "brown",     "en": "Brown",      "ar": "بني",         "hex": "#6b4a2f", "lab": [34, 11, 22] },
+    { "key": "dark_brown","en": "Dark brown", "ar": "بني غامق",    "hex": "#43301f", "lab": [22, 8, 15] },
+    { "key": "navy",      "en": "Navy",       "ar": "كحلي",        "hex": "#1e2a4a", "lab": [18, 5, -22] },
+    { "key": "blue",      "en": "Blue",       "ar": "أزرق",        "hex": "#2f5fa8", "lab": [40, 5, -42] },
+    { "key": "light_blue","en": "Light blue", "ar": "أزرق فاتح",   "hex": "#a8c4e0", "lab": [78, -2, -18] },
+    { "key": "denim",     "en": "Denim blue", "ar": "أزرق جينز",   "hex": "#4a6a8f", "lab": [44, -2, -24] },
+    { "key": "green",     "en": "Green",      "ar": "أخضر",        "hex": "#3f7a4a", "lab": [46, -30, 20] },
+    { "key": "olive",     "en": "Olive",      "ar": "زيتي",        "hex": "#6b6b3f", "lab": [44, -8, 25] },
+    { "key": "khaki",     "en": "Khaki",      "ar": "كاكي",        "hex": "#b0a077", "lab": [67, 0, 24] },
+    { "key": "red",       "en": "Red",        "ar": "أحمر",        "hex": "#b8302f", "lab": [41, 55, 35] },
+    { "key": "burgundy",  "en": "Burgundy",   "ar": "نبيتي",       "hex": "#6a2231", "lab": [25, 35, 8] },
+    { "key": "pink",      "en": "Pink",       "ar": "وردي",        "hex": "#e8a8b8", "lab": [75, 25, 0] },
+    { "key": "orange",    "en": "Orange",     "ar": "برتقالي",     "hex": "#d97b30", "lab": [62, 33, 55] },
+    { "key": "mustard",   "en": "Mustard",    "ar": "خردلي",       "hex": "#c9a227", "lab": [69, 5, 64] },
+    { "key": "yellow",    "en": "Yellow",     "ar": "أصفر",        "hex": "#e8d049", "lab": [83, -5, 65] },
+    { "key": "purple",    "en": "Purple",     "ar": "بنفسجي",      "hex": "#6a4a8f", "lab": [37, 25, -28] },
+    { "key": "teal",      "en": "Teal",       "ar": "تركوازي",     "hex": "#2f7a7a", "lab": [46, -22, -8] }
+  ]
+}

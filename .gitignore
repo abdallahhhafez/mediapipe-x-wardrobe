@@ -1,0 +1,11 @@
+.venv/
+node_modules/
+out*/
+models/
+server/uploads/
+server/cutouts/
+__pycache__/
+.DS_Store
+.claude/
+.env
+.env.*
